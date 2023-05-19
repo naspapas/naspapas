@@ -1,7 +1,6 @@
 You've reached Nas' Github,
 This will be my main place for uploading personal projects.
-
-(This is currently on hold as I prepare for an upcoming DevOps role)
+Currently working as in DevOps for NAB.
 
 If you need to reach me for whatever reason:
    
